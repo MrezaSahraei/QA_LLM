@@ -177,3 +177,10 @@ QA history inspection
 Retrieved document tracking
 
 Administrative controls
+
+
+<img width="1457" height="883" alt="Image" src="https://github.com/user-attachments/assets/4701b0f5-22c2-468c-ae17-191ab2aac228" />
+<img width="1918" height="954" alt="Image" src="https://github.com/user-attachments/assets/7905b01f-1f90-42f2-a8eb-2d5fa3d5347f" />
+<img width="1896" height="970" alt="Image" src="https://github.com/user-attachments/assets/c681ac0a-34c9-4a59-8041-f96be575e83b" />
+<img width="1919" height="940" alt="Image" src="https://github.com/user-attachments/assets/c75f54e5-4a03-46b3-9f78-6d6c3a6a5e02" />
+<img width="1588" height="845" alt="Image" src="https://github.com/user-attachments/assets/bff46ff7-b9c6-4ef8-845e-39b13ca36685" />
